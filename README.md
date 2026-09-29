@@ -1,6 +1,12 @@
 # vibebook
 vibe coding ebook
 
+## Current Book 1 manuscript
+
+The original blueprint and review notes continue below. The actual Book 1 draft now lives in [`chapters/book1/`](chapters/book1/); see its [reading order](chapters/book1/README.md), [chapter matrix](curriculum/BOOK1_CHAPTER_MATRIX.md), [master writing prompt](MASTER_PROMPT.md), and [product ladder](book-spec/PRODUCT_LADDER.md). The interactive [VibeBook Reader app](projects/ebook-app/README.md) presents the draft as a searchable local reader. The first working project is in [`projects/01-first-app/`](projects/01-first-app/), followed by the runnable [React/TypeScript TaskFlow milestone](projects/taskflow-react/); the companion templates, prompts, glossary, and checklists are in [`companion/`](companion/).
+
+**Status:** working manuscript draft, not publication-ready. Genuine beginner beta testing, cross-platform technical reproduction, accessibility review, and qualified security review remain outstanding; see [`companion/validation/`](companion/validation/).
+
 i want to write an ebook (for sale) on vibe coding, something very rich it can cover all aspects of everything anyone wants to build by vibe coding such that they learn how to vibe code in the highest possible way and a well rounded way, that can cover all possible roles when prompted, i want it to be something that a newbie that hasn't even vibecoded before in their life can do it and do it like a pro vibe code because of the book. whats everything i can conceivably need to cover and whats everything else i didnt also mention that needs to be there, and whats everything you would do in your full capacity using your highest model and full massive knowledge across all datasets possible
 The Ultimate Vibe Coding Ebook: Complete Book Blueprint
 
